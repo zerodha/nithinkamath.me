@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{{- $title := ( .Title ) -}}
+	{{- $siteTitle := ( .Site.Title ) -}}
+	{{- if .IsHome -}}
+	<title>{{ $siteTitle }} {{ if .Site.Params.subtitle }}- {{ .Site.Params.Subtitle }}{{ end }} </title>
+	{{- else -}}
+	<title>{{ $title }} - {{ $siteTitle }}</title>
+	{{- end -}}
+
+	<meta charset="utf-8" />
+	<meta name="title" content="{{.Site.Title}}">
+	<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.subtitle }}{{ end }}" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- Open Graph -->
+	{{- if .IsHome -}}
+	<meta property="og:title" content="{{ $siteTitle }} {{ if .Site.Params.subtitle }}- {{ .Site.Params.Subtitle }}{{ end }}" />
+	{{- else -}}
+	<meta property="og:title" content="{{ $title }} - {{ $siteTitle }}" />
+	{{- end -}}
+
+	<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.subtitle }}{{ end }}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="{{ .Permalink }}" />
+	
+	<link rel="shortcut icon" href="{{ .Site.BaseURL }}/static/images/favicon.png" />
+	
+	{{ with .OutputFormats.Get "rss" -}}
+	{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	{{ end -}}
+	
+	{{ if .Site.Params.Thumbnail }}
+		<meta property="og:image" content="{{ .Site.BaseURL }}/static/images/{{ .Site.Params.Thumbnail }}">
+	{{ end }}
+
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet"> 
+
+	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}/static/style.css" />
+</head>
+<body>
+	{{ .Site.Params.paginate }}
+	<section class="container wrap">
+		<div class="header">
+			<div class="logo">
+				<a href="{{ .Site.BaseURL }}/"><img src="{{ .Site.BaseURL }}/static/images/nithin.jpg" alt="" class="photo" /></a>
+				<a href="{{ .Site.BaseURL }}/"><img alt="{{ .Site.Title }}" src="{{ .Site.BaseURL }}/static/images/logo.svg" /></a>
+				<p class="tagline">{{ .Site.Params.Subtitle }}</p>
+			</div>
+			<nav class="nav">
+				{{ $cur := . }}
+				{{ range $.Site.Menus.header }}
+					{{ $active := in $cur.RelPermalink .URL }}
+					<a class="{{ if $active }} active {{ end }}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+				{{ end }}
+
+				<a href="{{ .Site.BaseURL }}/index.xml">
+					<img src="{{ .Site.BaseURL }}/static/images/feed.svg" alt="Subscribe to feed" />
+				</a>
+			</nav>
+		</div>
+
+		<div class="content">

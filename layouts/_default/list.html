@@ -1,0 +1,45 @@
+{{ partial "header.html" . }}
+<section class="page">
+	<h3 class="title kind-{{ .Page.Kind }}">
+		{{ if eq .Page.Kind "term" }}<a href="/tags">&larr;</a>{{ end }}
+		{{ .Title }}
+	</h3>
+
+	{{ if .Content }}
+		{{ .Content }}
+	{{ else if .Description }}
+		<p>{{ .Description }}</p>
+	{{ end }}
+
+	<div class="posts">
+		{{ $paginator := .Paginate (where .Pages "Params.hidden" "ne" true) }}
+		{{ range $paginator.Pages }}
+			{{ $u := urls.Parse .Params.link }}
+
+			<div class="post">
+        <div class="date">
+            <span class="day">{{ .Date | dateFormat "02" }}</span>
+            <span class="year">{{ .Date | dateFormat "Jan 2006" }}</span>
+        </div>
+        <div class="body">
+            <h4 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+            {{ if .Params.link }}
+                <span class="domain">{{ replace $u.Host "www." "" }}</span>
+            {{ end }}
+					<div class="description">
+						{{ if isset .Params "description" }}
+							{{ .Description }}
+						{{ else if gt (len .RawContent) 120 }}
+							{{ slicestr .RawContent 0 120 }}...
+						{{ else }}
+							{{ .RawContent }}
+						{{ end }}
+					</div>
+				</div>
+			</div>
+		{{ end }}
+
+	</div>
+	{{ template "_internal/pagination.html" . }}
+</section>
+{{ partial "footer.html" . }}

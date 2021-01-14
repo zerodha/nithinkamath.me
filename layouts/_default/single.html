@@ -1,0 +1,39 @@
+{{ partial "header.html" . }}
+		<div class="post single">
+			<div class="post-header">
+				<h3 class="title">{{ .Title }}</h3>
+				<div class="date">{{ .Date | dateFormat "02 Jan 2006" }}</div>
+			</div>
+					
+			<div class="body">
+				{{ .Content }}
+
+				{{ if in .Params.link "youtube.com" }}
+					<!-- youtube -->
+					{{ $u := replace (index (findRE "(?i)v=([a-z0-9-_]+)" .Params.link) 0) "v=" "" }}
+					<iframe width="100%" height="450" src="https://www.youtube.com/embed/{{ $u }}" frameborder="0"></iframe> 
+					<p><a href="{{ .Params.link }}">Watch on YouTube &rarr;</a></p>
+				{{ else if in .Params.link "twitter.com" }}
+					<!-- twitter -->
+					<p><a href="{{ .Params.link }}" rel="noopener noreferrer">View on Twitter &rarr;</a></p>
+				{{ else }}
+					<p><a href="{{ .Params.link }}" rel="noopener noreferrer">Go to link &rarr;</a></p>
+				{{ end }}
+
+			</div>
+
+			<!-- tags -->
+			<div class="tags">
+				{{ if ne .Type "page" }}
+					{{ if gt .Params.tags 0 }}
+						<ul class="flat">
+							{{ range .Params.tags }}
+							<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+							{{ end }}
+						</ul>
+					{{ end }}
+				{{ end }}
+			</div>
+		</div>
+	</div>
+{{ partial "footer.html" . }}

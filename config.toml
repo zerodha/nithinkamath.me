@@ -1,0 +1,25 @@
+baseURL = "https://nithinkamath.me"
+languageCode = "en-us"
+title = "Nithin Kamath's personal homepage"
+paginate = 20
+
+[params]
+subtitle = "Musings on finance, business, and life"
+thumbnail = "thumb.jpg"
+
+[taxonomies]
+   tag = "tags"
+   author = "authors"
+
+[menu]
+   [[menu.header]]
+      identifier = "home"
+      name = "Home"
+      url = "/"
+      weight = 1
+
+   [[menu.header]]
+      identifier = "musings"
+      name = "Musings"
+      url = "/blog"
+      weight = 2
