@@ -1,5 +1,5 @@
 ---
-date: '2020-01-28'
+date: '2021-01-28'
 title: Shorting and Indian Capital Markets
 tags: [trading, markets, startups]
 author: nithin
