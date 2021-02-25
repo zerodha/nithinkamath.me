@@ -1,6 +1,6 @@
 ---
 date: '2021-02-16'
-title: Podcast: Nikhil Kamath on The Ranveer Show
+title: Podcast - Nikhil Kamath on The Ranveer Show
 tags: [trading, markets]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1361637515833171971?s=20
