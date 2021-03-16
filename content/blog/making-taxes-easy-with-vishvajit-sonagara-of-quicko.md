@@ -8,4 +8,4 @@ post_type: tweet
 description: A misconception among traders is that you need to file ITR only if you make a profit. Many also don't file since it's quite complex, but...
 ---
 
-A misconception among traders is that you need to file ITR only if you make a profit. Many also don't file since it's quite complex, but Quicko has simplified it drastically. In our new Rainmatter podcast I talk to Vishvajit on their journey.
+A misconception among traders is that you need to file ITR only if you make a profit. Many also don't file since it's quite complex, but Quicko has simplified it drastically. In our new [Rainmatter podcast](https://anchor.fm/rainmatter) I talk to Vishvajit on their journey.
