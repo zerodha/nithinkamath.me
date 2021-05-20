@@ -1,7 +1,7 @@
 ---
 date: '2021-05-06'
 title: Worklife balance at Zerodha
-tags: [markets, investing]
+tags: [zerodha, business]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1390291995671683076?s=20
 post_type: tweet
