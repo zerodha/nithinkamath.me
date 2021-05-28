@@ -6,6 +6,7 @@ author: nithin
 link: https://twitter.com/Nithin0dha/status/1395037298077495298?s=20
 post_type: tweet
 description: With Crypto exchanges offering 10 to 100x leverage on futures, I wonder how these platforms monitor the liquidity position...
+---
 
 When a platform offers leverage or funds the customer to buy for more than the money in the account, the platform takes a credit risk. With Crypto exchanges offering 10 to 100x leverage (futures), on days like today, I wonder who monitors liquidity position of these platforms.
 
