@@ -1,5 +1,5 @@
 ---
-date: '2021-05-28'
+date: '2021-06-01'
 title: Introducing tags and trading journal on Console
 tags: [zerodha, trading]
 author: nithin
