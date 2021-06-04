@@ -8,7 +8,7 @@ post_type: tweet
 description: I’m surprised by the unwanted noise around this whole salary news of Nikhilk, Seema (my wife), & me....
 ---
 
-I’m surprised by the unwanted noise around this whole salary news of Nikhilk, Seema (my wife), & me.  The headlines are misleading. We are a private company & no obligations to clarify, but we thought maybe we should, as there are folks who are misinterpreting this. 
+I’m surprised by the unwanted noise around this whole salary news of Nikhil, Seema (my wife), & me.  The headlines are misleading. We are a private company & no obligations to clarify, but we thought maybe we should, as there are folks who are misinterpreting this. 
 
 Firstly the reported figure isn’t the actual salary being drawn. This is an enabling resolution that allows us as working promoters to draw salaries up to the number in case of liquidity requirements. Didn’t anticipate that this would get this much attention.
 
