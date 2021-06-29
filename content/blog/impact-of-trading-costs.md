@@ -5,7 +5,7 @@ tags: [zerodha, trading]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1409470445242380293?s=20
 post_type: tweet
-What most traders don't realize is that they pay a good chunk of their capital as costs...
+description: What most traders don't realize is that they pay a good chunk of their capital as costs...
 ---
 What most traders don't realize is that they pay a good chunk of their capital as costs. If you add impact costs, the minimum return an active trader should generate to break even yearly on their portfolio is usually well above 20%. Yep, that high and that tough.
 
