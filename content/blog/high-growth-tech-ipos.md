@@ -1,6 +1,6 @@
 ---
 date: '2021-07-12'
-title: Why look at notional contract value when buying options?
+title: The risk for high growth B2C tech IPOs
 tags: [startups, business]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1414457266078507015?s=20
