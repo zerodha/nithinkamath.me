@@ -1,5 +1,5 @@
 ---
-date: '2020-09-19'
+date: '2021-07-19'
 title: How will the broking industry perform next few years? This is a question I get asked often, more recently.
 tags: [business]
 author: nithin
