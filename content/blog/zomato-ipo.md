@@ -1,5 +1,5 @@
 ---
-date: '2020-09-16'
+date: '2021-07-16'
 title: Almost 20% of all Zomato applications are through Zerodha. 
 tags: [business, zerodha]
 author: nithin
