@@ -20,4 +20,4 @@ We've seen that a lot of first-time direct investors who open an account on impu
 
 Traders mature really fast. The things they need quickly go from just a buy & sell button to wanting other tools. The belief generally is that the more things you have access to, the higher the odds of winning. This is when a superior product can win even without ads.
 
-Getting people in is just one piece of the puzzle. The real problem to solve, which we aren't is to figure ways to help people make better choices with money, at scale. Not just for HNIs, but retail investors. The day we have an answer, we will advertise the hell out of i
+Getting people in is just one piece of the puzzle. The real problem to solve, which we aren't is to figure ways to help people make better choices with money, at scale. Not just for HNIs, but retail investors. The day we have an answer, we will advertise the hell out of it :)
