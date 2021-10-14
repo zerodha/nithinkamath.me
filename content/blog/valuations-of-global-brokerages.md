@@ -1,6 +1,6 @@
 ---
 date: '2021-10-01'
-title: In-Principle approval for our AMC
+title: Valuation of stock brokerages around the world
 tags: [business]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1443887239671414791?s=20
