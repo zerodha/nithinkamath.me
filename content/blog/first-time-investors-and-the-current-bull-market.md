@@ -1,6 +1,6 @@
 ---
 date: '2021-10-27'
-title: Bheavior of younger investors
+title: Behaviour of younger investors
 tags: [zerodha]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1453374760730124298?s=20
