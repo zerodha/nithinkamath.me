@@ -1,6 +1,6 @@
 ---
 date: '2022-02-07'
-title: Impact of 1% TDS on all Crypto trades impact-of-1-percent-TDS-on-all-crypto-trades.md
+title: Impact of 1% TDS on all Crypto trades
 tags: [crypto, markets]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1490653948805808129?s=20&t=Jp8VYTU78al6ZYPbPPvvMA
