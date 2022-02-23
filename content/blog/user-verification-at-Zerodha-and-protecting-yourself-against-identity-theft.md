@@ -1,6 +1,6 @@
 ---
 date: '2022-02-21'
-title: User verification at Zerodha and protecting yourself against identity theft user-verification-at-Zerodha-and-protecting-yourself-against-identity-theft.md 
+title: User verification at Zerodha and protecting yourself against identity theft
 tags: [zerodha]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1495738660876328965?s=20&t=mOCJHSPf5kbdCRJtAOvNUw
