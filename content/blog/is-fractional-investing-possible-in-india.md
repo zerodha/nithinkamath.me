@@ -1,7 +1,7 @@
 ---
 date: '2022-03-24'
 title: Is fractional share investing possible in India? 
-tags: [startups, markets, rainmatter
+tags: [startups, markets, rainmatter]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1506969016082251780?s=20&t=fU72J8jKh1bI7hS4XOhlMQ
 post_type: tweet
