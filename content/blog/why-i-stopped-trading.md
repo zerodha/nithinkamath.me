@@ -1,11 +1,11 @@
+---
 date: '2022-06-22'
 title: Why I stopped trading
 tags: [investing]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1539570124579295233
 post_type: tweet
-description: I get asked often, why stop trading?
-Trading isn't just trading stocks, It's trading your time and efforts to do things, where the risk to reward is most in your favour...
+description: I get asked often, why stop trading? Trading isn't just trading stocks, It's trading your time and efforts to do things, where the risk to reward is most in your favour...
 
 ---
 
