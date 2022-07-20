@@ -1,6 +1,6 @@
 date: '2022-06-27'
 title: Trading in bear markets
-tags: [trading]
+tags: [trading, markets]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1541345867512553473
 post_type: tweet
