@@ -1,3 +1,4 @@
+---
 date: '2022-07-04'
 title: Thoughts on real estate performance
 tags: [investing]
