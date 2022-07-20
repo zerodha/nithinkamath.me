@@ -1,5 +1,6 @@
+---
 date: '2022-07-14'
-title: India FOSS - Fireside chat with Rudra Saraswat: 12 year old linux dev
+title: "India FOSS - Fireside chat with Rudra Saraswat: 12 year old linux dev"
 tags: [tweet]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1547477226769514498
