@@ -1,10 +1,11 @@
+---
 date: '2022-07-06'
 title: Follow up on thoughts on real estate performance
 tags: [investing]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1544579381989093377
 post_type: tweet
-description: The question to ask when investing in real estate: Is the property yield greater than inflation?...
+description: The question to ask when investing in real estate - Is the property yield greater than inflation?...
 
 ---
 
