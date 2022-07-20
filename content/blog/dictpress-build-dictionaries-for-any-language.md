@@ -1,3 +1,4 @@
+---
 date: '2022-06-28'
 title: Dictpress - Build dictionaries for any language
 tags: [technology]
