@@ -1,5 +1,5 @@
 ---
-date: '2022-0&-22'
+date: '2022-07-22'
 title: Cybercrime risks when trading
 tags: [investing]
 author: nithin
