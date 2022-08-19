@@ -1,6 +1,4 @@
 ---
-word-of-mouth-is-more-valuable-than-anything-paid.md
-
 date: 2022-08-08
 title: Word of mouth is more valuable than anything paid
 tags: [business]
