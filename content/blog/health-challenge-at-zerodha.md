@@ -5,7 +5,7 @@ tags: [zerodha]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1573639712971329536?s=20&t=X-1PHyqcgTGt0e9JLxJtpw
 post_type: tweet
-description: Our latest health challenge at Zerodha is to give an option to set a daily activity goal on our fitness trackers....
+description: Our latest health challenge at Zerodha is to give an option to set a daily activity goal on our fitness trackers...
 ---
 
 Our latest health challenge at Zerodha is to give an option to set a daily activity goal on our fitness trackers. Anyone meeting whatever goal set on 90% of the days over next year gets 1 month's salary as a bonus. One lucky draw of Rs 10lks as a motivation kicker.😃
