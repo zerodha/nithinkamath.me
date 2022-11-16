@@ -1,5 +1,5 @@
 ---
-date: '2022-12-16'
+date: '2022-11-16'
 title: On web3 and buzzwords  
 tags: [startups]
 author: nithin
