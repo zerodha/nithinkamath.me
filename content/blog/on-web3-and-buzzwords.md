@@ -9,6 +9,6 @@ description: We need to put human-first thinking way above technology-first thin
 
 ---
 
-Dr K (Kailash) on web3 & buzzwords
+Dr K (Kailash) on web3 and buzzwords
 
 "We need to put human-first thinking way above technology-first thinking lest we develop a dangerous tunnel vision that reduces human problems into mere technology features & transactions, reduce humans to mere numbers."
