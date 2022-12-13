@@ -5,8 +5,7 @@ tags: [life]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1595336085177262081
 post_type: tweet
-description: "Is there such a thing as a cheerful pessimist?...
-
+description: "Is there such a thing as a cheerful pessimist?..."
 ---
 
 "Is there such a thing as a cheerful pessimist? That’s what I am."
