@@ -1,6 +1,6 @@
 ---
 date: '2022-12-19'
-title: small-change-big-impact    
+title: Small change big impact    
 tags: [climate]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1604736918964834304
