@@ -1,6 +1,6 @@
 ---
 date: '2023-03-20'
-title: The case for paytments banks
+title: The case for payments banks
 tags: [markets]
 author: nithin
 link: 	https://twitter.com/Nithin0dha/status/1637768599182999552
