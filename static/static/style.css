@@ -251,6 +251,7 @@ ul.flat li {
 
 .content {
     margin:0 15px;
+    text-align: justify;
 }
 
 .header .site-description nav {
@@ -441,7 +442,7 @@ ul.flat li {
     }
     .header nav {
         display: block;
-        text-align: left;
+        text-align: center;
         margin-top: 30px;
     }
     .header nav a {
@@ -449,6 +450,20 @@ ul.flat li {
     }
     .header {
         display: block;
+    }
+    .logo{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .header .photo{
+        margin: 10px 0px;
+    }
+    .title{
+        text-align: center;
+    }
+    .description{
+        text-align: center;
     }
 }
 
