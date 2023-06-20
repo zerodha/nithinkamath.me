@@ -1,6 +1,6 @@
 ---
 date: '2023-06-14'
-title: Trading advice from from Ramesh Damani
+title: Trading advice from Ramesh Damani
 tags: [trading, life]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1668984285691297794?t=JVQex_Di2HJUEK_QHAcikg&s=19
