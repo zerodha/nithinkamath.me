@@ -1,6 +1,6 @@
 ---
 date: '2023-07-11'
-title: Does technical analysiswork?
+title: Does technical analysis work?
 tags: [trading]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1678762985672818696
