@@ -1,5 +1,5 @@
 ---
-date: '2023-06-22'
+date: '2023-07-22'
 title: If you spend on what is not necessary, you won't have money for what is necessary
 tags: [personal finance, investing]
 author: nithin
