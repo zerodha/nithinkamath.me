@@ -2,7 +2,7 @@
 type: "page"
 ---
 
-I am Nithin, and I founded [Zerodha](https://zerodha.com). This is my personal homepage.
+I am Aakash and I founded [Zerodha](https://zerodha.com). This is my personal homepage.
 
 I **love** trading (although not actively anymore) and capital markets. At Zerodha, we focus on building the best tools and services for traders and investors in India. Alongside Zerodha, I also help startups through our [Rainmatter fintech](https://rainmatter.com) fund and more recently, have setup the [Rainmatter Foundation](https://rainmatter.org) to give back to the society, the success we have had at Zerodha.
 
