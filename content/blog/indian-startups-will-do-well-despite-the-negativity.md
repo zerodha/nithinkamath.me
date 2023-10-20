@@ -5,8 +5,7 @@ tags: [startups,investing]
 author: nithin
 link: https://x.com/Nithin0dha/status/1712020027426144451?s=20
 post_type: tweet
-description: "Investment is the discipline of relative selection” - Sid Cottle...
-
+description: Investment is the discipline of relative selection - Sid Cottle...
 ---
 
 "Investment is the discipline of relative selection” - Sid Cottle.
