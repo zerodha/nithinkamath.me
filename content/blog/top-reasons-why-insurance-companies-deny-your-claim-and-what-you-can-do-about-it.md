@@ -5,7 +5,7 @@ tags: [insurance]
 author: nithin
 link: https://x.com/Nithin0dha/status/1719704211636592874?s=20
 post_type: tweet
-description: Bengaluru maybe needs a "Dalal Street" as well...
+description: Just because you have insurance doesn't mean all your claims will be processed...
 
 ---
 
