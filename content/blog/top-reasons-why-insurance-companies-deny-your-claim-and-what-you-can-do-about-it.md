@@ -3,7 +3,7 @@ date: '2023-11-01'
 title: Top reasons why Insurance companies deny your claim and what you can do about it
 tags: [insurance]
 author: nithin
-link: [https://twitter.com/Nithin0dha/status/1712809466599530796?s=20](https://x.com/Nithin0dha/status/1719704211636592874?s=20)
+link: https://x.com/Nithin0dha/status/1719704211636592874?s=20
 post_type: tweet
 description: Bengaluru maybe needs a "Dalal Street" as well...
 
