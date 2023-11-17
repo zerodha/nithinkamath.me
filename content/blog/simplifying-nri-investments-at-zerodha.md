@@ -3,7 +3,7 @@ date: '2023-11-15'
 title: Simplifying NRI investments at Zerodha
 tags: [zerodha,investing,nris]
 author: nithin
-link: https://x.com/Nithin0dha/status/1724796317367693601?s=20
+link:  https://x.com/Nithin0dha/status/1724796317367693601?s=20
 post_type: tweet
 description: NRI account opening reminds me of...
 
