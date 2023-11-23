@@ -1,5 +1,5 @@
 ---
-date: '2023-11-21'
+date: '2023-11-22'
 title: Rise in scams involving fake screenshots, P&L reports, ID cards, bank statements, etc.
 tags: [scams]
 author: nithin
