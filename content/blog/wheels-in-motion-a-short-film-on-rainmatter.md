@@ -1,7 +1,7 @@
 ---
 date: '2023-12-18'
 title: Wheels in motion, a short film on Rainmatter
-tags: [rainmatter-foundation,climate.rainmatter-climate]
+tags: [rainmatter-foundation,climate,rainmatter-climate]
 author: nithin
 link: https://x.com/Nithin0dha/status/1736773003269329248?s=20
 post_type: tweet
