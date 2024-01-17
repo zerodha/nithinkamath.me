@@ -1,7 +1,7 @@
 ---
 date: '2022-04-06'
 title: Alternatives to plastic using seaweed
-tags: [rainmatter-foundation1]
+tags: [rainmatter-foundation]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1511750799978041347?s=20&t=fU72J8jKh1bI7hS4XOhlMQ
 post_type: tweet
