@@ -1,7 +1,7 @@
 ---
 date: '2023-02-01'
 title: Adverse impact of budget on international investing platforms
-tags: [taxation, markets, starups]
+tags: [taxation, markets, startups]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1620739708295991303
 post_type: tweet
