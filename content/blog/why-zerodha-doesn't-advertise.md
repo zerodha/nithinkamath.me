@@ -1,6 +1,6 @@
 ---
 date: '2024-05-21'
-title: Ads about Broking business
+title: Why Zerodha doesn't advertise 
 tags: [broking,business]
 author: nithin
 link: https://x.com/Nithin0dha/status/1792855011585630588
