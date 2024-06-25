@@ -1,6 +1,6 @@
 ---
 date: '2024-06-25'
-title: Rainmetter investment in Solinas
+title: Rainmatter investment in Solinas
 tags: [rainmatter]
 author: nithin
 link: https://x.com/Nithin0dha/status/1805499794418176109
