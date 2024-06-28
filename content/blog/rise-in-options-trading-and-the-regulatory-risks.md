@@ -1,6 +1,6 @@
 ---
 date: '2024-06-28'
-title: The options trading frenzy
+title: Rise in options trading and the regulatory risks
 tags: [trading,regulation]
 author: nithin
 link: https://x.com/Nithin0dha/status/1806612207007834450
