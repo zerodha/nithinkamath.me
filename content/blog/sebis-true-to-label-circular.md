@@ -1,5 +1,5 @@
 ---
-date: '2024-06-07'
+date: '2024-07-02'
 title: SEBI’s “true to label” circular
 tags: [business]
 author: nithin
