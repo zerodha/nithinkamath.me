@@ -1,6 +1,6 @@
 ---
 date: '2024-08-01'
-title: 12 years of Zerodha
+title: Impromptu AMRAP workout
 tags: [life,fitness]
 author: nithin
 link: https://x.com/Nithin0dha/status/1819017390702932436
