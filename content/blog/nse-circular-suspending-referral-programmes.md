@@ -1,6 +1,6 @@
 ---
 date: '2024-08-21'
-title: KNSE circular suspending referral programmes
+title: NSE circular suspending referral programmes
 tags: [business,zerodha]
 author: nithin
 link: https://x.com/Nithin0dha/status/1826219680090013831
