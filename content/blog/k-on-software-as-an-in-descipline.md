@@ -1,5 +1,5 @@
 ---
-date: '2024-08-13'
+date: '2024-08-12'
 title: K on software as an "in-descipine"
 tags: [business,technology]
 author: nithin
