@@ -1,6 +1,6 @@
 ---
 date: '2024-08-29'
-title: At the Varsity counder at #GFF2024
+title: At the Varsity counter at #GFF2024
 tags: [varsity]
 author: nithin
 link: https://x.com/Nithin0dha/status/1829086893499146658
