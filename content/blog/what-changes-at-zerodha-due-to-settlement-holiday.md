@@ -5,7 +5,7 @@ tags: [zerodha,markets]
 author: nithin
 link: https://x.com/Nithin0dha/status/1835560617446367547
 post_type: tweet
-description: 
+description: Most brokers don't allow shares bought on Friday to be sold on Monday because of this. We at Zerodha are among the few brokers that allow you to sell stocks bought on Friday...
 
 ---
 
