@@ -1,6 +1,6 @@
 ---
 date: '2024-09-19'
-title: The case of Octfax and other CFD platforms
+title: The case of OctaFx and other CFD platforms
 tags: [trading,scams]
 author: nithin
 link: https://x.com/Nithin0dha/status/1836690561094271356
