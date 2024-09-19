@@ -1,6 +1,6 @@
 ---
 date: '2024-09-17'
-title: Altert Triggers Order feature on Kite
+title: Alert Triggers Order feature on Kite
 tags: [zerodha]
 author: nithin
 link: https://x.com/Nithin0dha/status/1822970096073187741
