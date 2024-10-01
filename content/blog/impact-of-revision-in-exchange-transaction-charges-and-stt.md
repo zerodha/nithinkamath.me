@@ -1,5 +1,5 @@
 ---
-date: '2024-09-01'
+date: '2024-10-01'
 title: Impact of revision in Exchange Transaction Charges and STT
 tags: [business,trading]
 author: nithin
@@ -9,7 +9,7 @@ description: Equity delivery will continue to be free at Zerodha.  As of now, we
 
 ---
 
-quity delivery will continue to be free at [@zerodhaonline](https://x.com/zerodhaonline). As of now, we are not making any changes to our brokerage.
+Equity delivery will continue to be free at [@zerodhaonline](https://x.com/zerodhaonline). As of now, we are not making any changes to our brokerage.
 
 From today, Oct 1, 2024,
 
