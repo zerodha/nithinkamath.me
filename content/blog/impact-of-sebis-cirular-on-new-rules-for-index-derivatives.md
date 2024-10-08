@@ -1,6 +1,6 @@
 ---
 date: '2024-10-03'
-title: Impact of SEBI's circular on new rules for index derivatives
+title: Impact of SEBI's on new rules for index derivatives
 tags: [business,markets]
 author: nithin
 link: https://x.com/Nithin0dha/status/1841785419542712747
