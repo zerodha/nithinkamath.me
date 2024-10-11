@@ -1,6 +1,6 @@
 ---
 date: '2024-10-11'
-title: Update on all our educational content initiatives.
+title: Update on all our educational content initiatives
 tags: [zerodha,varsity,education]
 author: nithin
 link: https://x.com/Nithin0dha/status/1844672265192960090
