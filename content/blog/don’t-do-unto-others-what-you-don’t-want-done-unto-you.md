@@ -1,6 +1,6 @@
 ---
 date: '2024-10-25'
-title: Minimalism works better at Zerodha
+title: Don’t do unto others what you don’t want done unto you
 tags: [zerodha]
 author: nithin
 link: https://x.com/Nithin0dha/status/1849708993637204343
