@@ -1,6 +1,6 @@
 ---
 date: '2024-11-06'
-title: Corporate growth coukd be hitting a plateau
+title: Corporate growth could be hitting a plateau
 tags: [interesting-articles, startups]
 author: nithin
 link: https://x.com/Nithin0dha/status/1854061130236207453
