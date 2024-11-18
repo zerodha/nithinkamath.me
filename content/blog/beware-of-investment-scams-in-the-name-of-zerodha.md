@@ -1,6 +1,6 @@
 ---
 date: '2024-11-18'
-title: Beware of these fake Zerodha investment scams
+title: Beware of investment scams in the name of Zerodha
 tags: [zerodha,scams]
 author: nithin
 link: https://x.com/Nithin0dha/status/1858476820942749982
