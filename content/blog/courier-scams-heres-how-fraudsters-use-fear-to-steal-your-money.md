@@ -1,4 +1,5 @@
 ---
+
 date: '2024-12-13'
 title: Courier Scams: Here's how fraudsters use fear to steal your money
 tags: [scams]
@@ -6,6 +7,8 @@ author: nithin
 link: https://x.com/Nithin0dha/status/1867533335117148442
 post_type: tweet
 description: Every day, hundreds of people lose lakhs of their hard-earned money to these scams...
+
+---
 
 Imagine this:
 
