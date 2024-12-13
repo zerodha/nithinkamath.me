@@ -9,7 +9,7 @@ description: Every day, hundreds of people lose lakhs of their hard-earned money
 
 ---
 
-Imagine this:
+Imagine this
 
 You get an unexpected call from a courier company. The representative tells you that the police have held a parcel of yours because it has drugs and other illegal items. They even disclose some personal details, like your Aadhaar number, etc. Soon, you'll also get calls from police, CBI, etc.
 
