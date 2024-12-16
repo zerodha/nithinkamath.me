@@ -17,4 +17,4 @@ What happened with peer-to-peer (P2P) lending is an example. The recent P2P regu
 
 All players in the space will have to go back to the drawing board.
 
-For more, [read this post](https://finshots.in/archive/is-peer-to-peer-lending-p2p-set-for-a-crash/)).
+For more, [read this post](https://finshots.in/archive/is-peer-to-peer-lending-p2p-set-for-a-crash/).
