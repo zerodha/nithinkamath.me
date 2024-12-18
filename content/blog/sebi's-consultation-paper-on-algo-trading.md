@@ -1,6 +1,6 @@
 ---
 date: '2024-12-18'
-title: SEBI has something to say about algo trading
+title: SEBIs consultation paper on algo trading
 tags: [regulation,interesting-articles]
 author: nithin
 link: https://x.com/Nithin0dha/status/1869319832191271230
