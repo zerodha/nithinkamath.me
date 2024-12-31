@@ -5,7 +5,7 @@ tags: [rainmatter,climate change]
 author: nithin
 link: https://x.com/nithin0dha/status/1873969369514205483
 post_type: tweet
-description: he prelude to starting Rainmatter Org in 2021, was that we decided to first get our hands dirty and took on a restoration project in 2020...
+description: The prelude to starting Rainmatter Org in 2021, was that we decided to first get our hands dirty and took on a restoration project in 2020...
 
 ---
 
