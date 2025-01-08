@@ -5,7 +5,7 @@ tags: [rainmatter,rainmatter-foundation]
 author: nithin
 link: https://x.com/Nithin0dha/status/1876919721620013520
 post_type: tweet
-description: climate and health will be..
+description: Climate and health will be..
 
 ---
 
