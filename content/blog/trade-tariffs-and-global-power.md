@@ -1,6 +1,6 @@
 ---
 date: '2025-02-03'
-title: On the 'America First' Policy
+title: Trade tariffs and Global Power
 tags: [interesting-articles]
 author: nithin
 link: https://x.com/Nithin0dha/status/1886325502857875939
