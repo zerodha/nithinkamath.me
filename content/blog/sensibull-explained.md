@@ -17,4 +17,4 @@ In 2018, he finally decided to start Sensibull. This time, the idea was to help 
 
 Today, after being around for 7+ years, I don't think we are successful yet in our mission to help traders 😬. But that said, Abid and the team have come a long way in helping traders do better.
 
-Considering a lot of traders might not know about Sensibull, we thought of making a quick video explaining Sensibull in 2 minutes. 😃
+Considering a lot of traders might not know about Sensibull, we thought of making a [quick video](https://www.youtube.com/watch?v=gO_jERK8JZQ) explaining Sensibull in 2 minutes. 😃
