@@ -1,5 +1,5 @@
 ---
-date: '2025-03-20'
+date: '2025-03-11'
 title: Not having life insurance is a bad idea
 tags: [insurance]
 author: nithin
