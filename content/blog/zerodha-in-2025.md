@@ -1,6 +1,6 @@
 ---
 date: '2025-04-16'
-title: Zerodha in 2025?
+title: Zerodha in 2025
 tags: [zerodha]
 author: nithin
 link: https://x.com/Nithin0dha/status/1912401005557535179
