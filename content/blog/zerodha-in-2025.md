@@ -17,4 +17,4 @@ Hi Nithin sir, I have one specific question for you:
 
 Me: We would not have started Zerodha 😀 The market is so crowded, and being another one doing the same thing wouldn’t work. Also our product has evolved over the last 10 years, I don’t think it would make sense to attempt to beat the best today on day 1 of the business.
 
-I would have probably built a brokerage with some other moat probably. Charge higher and offer a better research maybe. Of course the customers would have been much lesser, but you could still earn significantly.
+I would have probably built a brokerage with some other moat. Charge higher and offer better research, maybe. Of course, the customers would have been much fewer, but you could still earn significantly.
