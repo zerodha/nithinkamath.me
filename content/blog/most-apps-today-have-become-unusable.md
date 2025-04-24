@@ -20,3 +20,5 @@ At Zerodhaon, we're different. We only request app permissions that are genuinel
 Not doing unto others what we don't want done unto us is deeply rooted in our philosophy.
 
 Here's our [philosophy.](https://zerodha.com/about/philosophy/)
+
+Check out this article from [The Ken](https://t.co/D2uTIKvqA7) about apps getting access to everything on the phone. 
