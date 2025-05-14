@@ -1,6 +1,6 @@
 ---
 date: '2025-05-14'
-title: Introducing the Stock research platform powered by Tijori
+title: Introducing the Stock pages powered by Tijori
 tags: [tijori,products,features]
 author: nithin
 link: https://x.com/Nithin0dha/status/1922565946390024506
