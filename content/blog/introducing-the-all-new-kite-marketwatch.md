@@ -1,5 +1,5 @@
 ---
-date: '2025-05-15'
+date: '2025-05-19'
 title: Introducing the all-new Kite Marketwatch
 tags: [products,features]
 author: nithin
