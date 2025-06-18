@@ -1,6 +1,6 @@
 ---
 date: '2025-06-18'
-title: Check your credit rating here for free
+title: Check your credit rating on Zerodha Capital
 tags: [zeroodhacapital]
 author: nithin
 link: https://x.com/Nithin0dha/status/1935239720558350603
