@@ -5,7 +5,7 @@ tags: [interesting-articles]
 author: nithin
 link: https://x.com/Nithin0dha/status/1937728858049950104
 post_type: tweet
-description: Holding shares in demat form...
+description: There are environmental costs...
 
 ---
 I'm not sure most people truly understand the cost of transitioning from ICE vehicles to electric vehicles.
