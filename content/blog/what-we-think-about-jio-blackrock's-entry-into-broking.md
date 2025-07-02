@@ -1,6 +1,6 @@
 ---
 date: '2025-07-02'
-title: What we think about Jio-Blackrock's entry into broking
+title: What we think about Jio-BlackRock's entry into broking
 tags: [broking,business]
 author: nithin
 link: https://x.com/Nithin0dha/status/1940346922725982349
