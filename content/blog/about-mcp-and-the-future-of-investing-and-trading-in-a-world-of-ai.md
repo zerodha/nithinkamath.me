@@ -23,4 +23,6 @@ As for how things will evolve, the answer is grey. No one knows. Our approach: s
 
 In a future where everything is automated, trust and infrastructure will be our only real moats.
 
+You can [post any queries here](https://tradingqna.com/t/zerodha-s-claude-ai-portfolio-advisor/184000/3).
+
 Image: [@LiveMint](https://x.com/LiveMint).
