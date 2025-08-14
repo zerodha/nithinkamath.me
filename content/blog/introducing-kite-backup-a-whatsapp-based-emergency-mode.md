@@ -10,6 +10,6 @@ description:  We've built a new emergency trading...
 ---
 Trading platforms are ridiculously complex. One hiccup anywhere from exchange connections to cloud servers can create an issue. Over the years, we've built tons of safeguards and redundancies, but we're still paranoid.
 
-Apart from all of this, we've built a new emergency trading mode using WhatsApp. In case of a disaster scenario, which we hope never happens, and the Kite web and mobile both become inaccessible during market hours, this backup mode will allow you to cancel orders and exit positions. It runs on a completely separate infrastructure and is designed to be independent of Kite.
+Apart from all of this, we've built a new emergency trading mode using WhatsApp. In case of a disaster scenario, which we hope never happens, and the Kite web and mobile both become inaccessible during market hours, this backup mode will allow you to cancel orders and exit positions. It runs on a completely separate infrastructure and is designed to be independent of Kite. Link to the [post.](https://zerodha.com/z-connect/kite/introducing-kite-backup-a-whatsapp-based-emergency-mode)
 
-Watch this [video](https://zerodha.com/z-connect/kite/introducing-kite-backup-a-whatsapp-based-emergency-mode) to know how to enable it.
+Watch this [video](https://youtu.be/jLJSbQVCgj8?si=80gCdKV0gfxwk3QI) to know how to enable it.
