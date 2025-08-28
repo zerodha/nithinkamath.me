@@ -1,5 +1,5 @@
 ---
-date: '2025-08-18'
+date: '2025-08-28'
 title: In her Interest, an initiative by Zerodha
 tags: [zerodha,rainmatter]
 author: nithin
