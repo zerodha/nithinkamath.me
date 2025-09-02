@@ -1,7 +1,7 @@
 ---
 date: '2025-06-17'
 title: Have old physical shares? We can help you dematerialize them
-tags: [zeroodha]
+tags: [zerodha]
 author: nithin
 link: https://x.com/Nithin0dha/status/1934914488743985201
 post_type: tweet
