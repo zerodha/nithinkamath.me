@@ -1,7 +1,7 @@
 ---
 date: '2025-07-06'
 title: Gurukula Botanical Sanctuary is quietly reviving a part of the Western Ghats 
-tags: [enviorment]
+tags: [environment]
 author: nithin
 link: https://x.com/Nithin0dha/status/1941805602692362469
 post_type: tweet
