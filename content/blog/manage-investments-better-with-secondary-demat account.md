@@ -14,6 +14,8 @@ If I had to sell any of my investments, there was effort involved. I had to phys
 
 The other advantage of having a secondary demat was, of course, taxation. If you have both short-term and long-term holdings in one demat, First In First Out (FIFO) taxation applies. Check the link in the comments to know more.
 
-We wanted to [offer a secondary demat](https://support.zerodha.com/category/account-opening/resident-individual/ri-online/articles/open-secondary-demat-account-zerodha#h_75148983470331755676330209) for a long time, but there were some challenges, and we finally figured out how to do it. You can now open a new demat and use it to segregate your long-term and short-term holdings and smartly manage the tax impact on your holdings. This is a good behavioural hack to deal with impulse selling.
+We wanted to [offer a secondary demat](https://youtu.be/WSVmbSjiI_k?si=AP5KKpTi8oLii1rE) for a long time, but there were some challenges, and we finally figured out how to do it. You can now open a new demat and use it to segregate your long-term and short-term holdings and smartly manage the tax impact on your holdings. This is a good behavioural hack to deal with impulse selling.
 
 Unsurprisingly, the best returns were on stocks that I held the longest in my secondary demat.
+
+Link to the [article.](https://support.zerodha.com/category/account-opening/resident-individual/ri-online/articles/open-secondary-demat-account-zerodha#h_75148983470331755676330209) 
