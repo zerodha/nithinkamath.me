@@ -1,6 +1,6 @@
 ---
 
-date: '2021-11-40'
+date: '2021-11-30'
 title: Why don’t we offer pre-IPO orders?
 tags: [zerodha]
 author: nithin
