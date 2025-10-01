@@ -1,3 +1,5 @@
+---
+
 date: '2022-06-13'
 title: Less leverage has helped Indian markets outperform global markets
 tags: [markets]
