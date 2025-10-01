@@ -11,5 +11,3 @@ description: Check out the inflation on Karthik Rangappa's biceps...
 ---
 
 Check out the inflation on [@karthikrangappa's](https://twitter.com/karthikrangappa) biceps.😉💪😍
-
-https://twitter.com/karthikrangappa/status/1544299484947296256
