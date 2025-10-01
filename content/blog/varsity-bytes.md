@@ -1,4 +1,5 @@
 ---
+
 date: '2022-06-16'
 title: Varsity Bytes
 tags: [zerodha, varsity,]
