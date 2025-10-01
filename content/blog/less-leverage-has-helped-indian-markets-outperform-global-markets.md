@@ -6,7 +6,7 @@ tags: [markets]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1536303989092130816?s=20&t=piZQ0DD1ixthQeY9TFRhbw
 post_type: tweet
-description: The silver lining for India in the current global meltdown is that we may continue to do better than other markets on a relative basis because of the low levels of leverage in our capital markets...
+description: The silver lining for India in the current global meltdown is that we may continue to do better than other markets...
 
 ---
 
