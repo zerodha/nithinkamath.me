@@ -1,6 +1,6 @@
 ---
 
-date: '2023-08-07	'
+date: '2023-08-07'
 title: The journey of Omnesys
 tags: [technology]
 author: nithin
