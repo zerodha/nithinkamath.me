@@ -1,7 +1,7 @@
 ---
 
 date: '2022-07-05'
-title: Varsity Bytes: What is inflation?
+title: Varsity Bytes - What is inflation?
 tags: [investing]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1544316044818452486
