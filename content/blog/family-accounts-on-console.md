@@ -1,3 +1,5 @@
+---
+
 date: '2022-06-14'
 title: Family accounts on Console
 tags: [zerodha]
@@ -8,7 +10,7 @@ description: Despite my best efforts, I have been unable to help my dad consolid
 
 ---
 
-Throughout his career as a bank manager, my dad has invested in stocks, MFs and insurance through various entities. Despite working in a brokerage firm and my best efforts, I have been unable to help him consolidate his investments and help him exit the wasteful investments.
+Throughout his career as a bank manager, my dad has invested in stocks, MFs, and insurance through various entities. Despite working in a brokerage firm and my best efforts, I have been unable to help him consolidate his investments and help him exit the wasteful investments.
 
 I'm sure many Indians must be facing the same problem, just like my dad. As a first step towards attempting to solve it, we are helping our customers have a consolidated [family portfolio view](https://zerodha.com/z-connect/console/introducing-family-portfolio-view-on-console) across Zerodha accounts.
 
