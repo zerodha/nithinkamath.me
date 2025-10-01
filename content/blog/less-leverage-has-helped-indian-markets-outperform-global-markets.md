@@ -4,7 +4,7 @@ date: '2022-06-13'
 title: Less leverage has helped Indian markets outperform global markets
 tags: [markets]
 author: nithin
-link: https://twitter.com/Nithin0dha/status/1536303989092130816?s=20&t=piZQ0DD1ixthQeY9TFRhbw
+link: https://x.com/Nithin0dha/status/1536303989092130816
 post_type: tweet
 description: The silver lining for India in the current global meltdown is that we may continue to do better than other markets...
 
