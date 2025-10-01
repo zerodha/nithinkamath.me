@@ -1,3 +1,5 @@
+---
+
 date: '2022-07-05'
 title: Varsity Bytes: What is inflation?
 tags: [investing]
