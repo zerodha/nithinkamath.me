@@ -5,7 +5,7 @@ tags: [zerodha]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1605807442461335554?s=20&t=4pOt-UEVI3OQFn3xoCFxEw
 post_type: tweet
-description: https://twitter.com/Nithin0dha/status/1605807442461335554?s=20&t=4pOt-UEVI3OQFn3xoCFxEw...
+description: Free and open source software (FOSS) has been the pillar on which Zerodha is built...
 
 ---
 
