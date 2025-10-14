@@ -1,6 +1,6 @@
 ---
 date: '2025-10-14'
-title: Tech sovereignty depends on open source
+title: Open source for tech sovereignty
 tags: [technology,interesting-articles]
 author: nithin
 link: https://x.com/Nithin0dha/status/1978043768667512999
