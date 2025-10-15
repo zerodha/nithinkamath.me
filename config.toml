@@ -2,6 +2,7 @@ baseURL = "https://nithinkamath.me"
 languageCode = "en-us"
 title = "Nithin Kamath's personal homepage"
 paginate = 20
+rssLimit = 20
 
 [params]
 subtitle = "Musings on finance, business, and life"
