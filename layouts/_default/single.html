@@ -16,7 +16,7 @@
 				{{ else if in .Params.link "twitter.com" }}
 					<!-- twitter -->
 					<p><a href="{{ .Params.link }}" rel="noopener noreferrer">View on Twitter &rarr;</a></p>
-				{{ else }}
+				{{ else if isset .Params "link" }}
 					<p><a href="{{ .Params.link }}" rel="noopener noreferrer">Go to link &rarr;</a></p>
 				{{ end }}
 
