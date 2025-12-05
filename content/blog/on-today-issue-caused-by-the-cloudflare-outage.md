@@ -1,5 +1,5 @@
 ---
-date: '205-12-05'
+date: '2025-12-05'
 title: On today’s issue caused by the Cloudflare outage
 tags: [zerodha,business]
 author: nithin
