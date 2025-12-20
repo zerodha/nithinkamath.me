@@ -1,5 +1,5 @@
 ---
-date: '025-12-20'
+date: '2025-12-20'
 title: Planting trees is not enough if they aren’t native
 tags: [enviorment]
 author: nithin
