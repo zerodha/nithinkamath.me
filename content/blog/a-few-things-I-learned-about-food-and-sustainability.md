@@ -3,7 +3,7 @@ date: '2023-09-11'
 title: A few things I learned about food and sustainability 
 tags: [health]
 author: nithin
-link: https://twitter.com/Nithin0dha/status/1698205646586298633?s=20
+link: https://x.com/Nithin0dha/status/1701209268760838390?s=20
 post_type: tweet
 description: Every time I speak or listen to Shashi, I learn something new...
 
