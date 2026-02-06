@@ -1,6 +1,6 @@
 ---
 date: '2026-02-06'
-title: Introducing Kite Terminal Mode
+title: Kite Terminal Mode is now live on beta
 tags: [zerodha,products]
 author: nithin
 link: https://x.com/Nithin0dha/status/2019705475642896749
