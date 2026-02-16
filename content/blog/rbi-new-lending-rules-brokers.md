@@ -6,7 +6,7 @@ tags: [business,regulations]
 author: nithin
 link: https://x.com/Nithin0dha/status/2023367093681525120
 post_type: tweet
-description: Spoke to a few industry folks to figure out what's actually changing. TL;DR: quite a bit...
+description: Spoke to a few industry folks to figure out what's actually changing. TL;DR quite a bit...
 
 ---
 
