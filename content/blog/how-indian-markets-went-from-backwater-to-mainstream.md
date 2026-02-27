@@ -16,4 +16,4 @@ It's early days, but there are noticeable shifts away from FDs, real estate, etc
 
 Considering the unstable and closed-off world we are heading into and the massive investments needed in the future, this "deepening" of the markets is a good thing.
 
-[Read the post here.](https://zerodha.com/z-connect/subtext/how-indian-markets-went-from-backwater-to-mainstream)
+[Read the post here.](https://subtextbyzerodha.substack.com/p/how-indian-markets-went-from-backwater)
