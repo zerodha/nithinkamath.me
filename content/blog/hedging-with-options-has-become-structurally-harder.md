@@ -1,6 +1,6 @@
 ---
 date: '2026-03-11'
-title: Hedging with options has gotten structurally harder
+title: Hedging with options has become structurally harder
 tags: [markets,trading]
 author: nithin
 link: https://x.com/Nithin0dha/status/2031693067070193691
