@@ -1,4 +1,5 @@
 ---
+
 date: '2026-03-17'
 title: Do banking apps really need all these permissions?
 tags: [tweet]
@@ -6,6 +7,8 @@ author: nithin
 link: https://x.com/Nithin0dha/status/2033833886053241164?s=20
 post_type: tweet
 description: Why does a banking app need access to my SMS, phone, contacts, etc., in the name of security...
+
+---
 
 I don't use net banking apps on my phone because the mandatory permissions they ask for make no sense. 
 
