@@ -1,6 +1,6 @@
 ---
 
-date: '2026-04-02'
+date: '2026-04-04'
 title: Plastic pollution could drop 98% with better waste systems
 tags: [climate,pollution]
 author: nithin
