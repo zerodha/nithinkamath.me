@@ -1,7 +1,7 @@
 ---
 date: '2025-10-02'
 title: RBI move could make LAS more popular
-tags: [zerodh,products]
+tags: [zerodha,products]
 author: nithin
 link: https://x.com/Nithin0dha/status/1973661706070147274
 post_type: tweet
