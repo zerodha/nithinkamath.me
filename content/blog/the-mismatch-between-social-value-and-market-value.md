@@ -1,5 +1,5 @@
 ---
-date: '2026-04-09'
+date: '2026-04-08'
 title: The mismatch between social value and market value
 tags: [business]
 author: nithin
