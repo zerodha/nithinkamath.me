@@ -1,7 +1,7 @@
 ---
 date: '2023-01-13'
 title: Introducing Varsity Junior   
-tags: [Zerodha]
+tags: [Zerodha,varsity]
 author: nithin
 link: https://twitter.com/Nithin0dha/status/1613888665536835584
 post_type: tweet
