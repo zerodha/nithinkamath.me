@@ -1,5 +1,5 @@
 ---
-date: '2026-04-23'
+date: '2026-04-24'
 title: The unease around wealth and inequality
 tags: [general]
 author: nithin
