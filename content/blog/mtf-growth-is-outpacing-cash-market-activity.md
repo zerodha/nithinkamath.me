@@ -1,6 +1,6 @@
 ---
 date: '2026-05-07'
-title: MTF growth is outpacing cash marketactivity
+title: MTF growth is outpacing cash marketa ctivity
 tags: [markets,trading,mtf,broking,investing,products]
 author: nithin
 link: https://x.com/Nithin0dha/status/2052357551178838041?s=20
