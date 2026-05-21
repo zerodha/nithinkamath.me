@@ -1,6 +1,6 @@
 ---
 date: '2026-05-21'
-title: Episode Two of The Ken’s Intermission The Bajaj Finance story
+title: Episode 2 of The Ken’s Intermission The Bajaj Finance story
 tags: [fintech,zerodhacapital,interesting-articles]
 author: nithin
 link: https://x.com/Nithin0dha/status/2057411621459480715?s=20
