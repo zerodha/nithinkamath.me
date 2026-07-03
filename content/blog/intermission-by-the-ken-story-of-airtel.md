@@ -1,6 +1,6 @@
 ---
 date: '2026-07-03'
-title: Intermission by the Ken: Story of Airtel
+title: Intermission by the Ken - Story of Airtel
 tags: [general]
 author: nithin
 link: https://x.com/Nithin0dha/status/2073025631554773422?s=20
