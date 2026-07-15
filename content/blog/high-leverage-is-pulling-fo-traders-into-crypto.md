@@ -1,6 +1,6 @@
 ---
 date: '2026-07-15'
-title: Lack of clear rules is drawing F&O traders to crypto
+title: High leverage is pulling F&O traders into crypto
 tags: [interesting-articles,crypto,regulations,trading]
 author: nithin
 link: https://x.com/Nithin0dha/status/2077317427575337389?s=20
