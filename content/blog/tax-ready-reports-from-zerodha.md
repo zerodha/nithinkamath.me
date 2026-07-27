@@ -31,7 +31,7 @@ Some new things we’ve added recently:
 
 So, you can now pretty much download the reports and send them directly to your CA without worrying that something important might be missing.
 
-You can also check out Quicko in case you need help.
+You can also [check out Quicko](https://quicko.com/) in case you need help.
 
 Check out [this post to learn the basics](https://zerodhavarsity.substack.com/p/filing-itr-the-bare-minimum-you-should).
 
