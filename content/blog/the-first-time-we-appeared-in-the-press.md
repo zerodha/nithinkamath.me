@@ -1,5 +1,5 @@
 ---
-date: '2026-08-03'
+date: '2026-09-03'
 title: The first time we appeared in the press
 tags: [business,zerodha]
 author: nithin
