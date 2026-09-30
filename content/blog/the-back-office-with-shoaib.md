@@ -10,11 +10,11 @@ description: One lesser-known thing about Zerodha is that almost everyone in lea
 
 ---
 
-One lesser-known thing about zerodha is that almost everyone in leadership today has grown from within the organisation.
+One lesser-known thing about Zerodha is that almost everyone in leadership today has grown from within the organisation.
 
 We have rarely hired anyone from outside for leadership roles. For most people here, Zerodha was their first or second job, and we don't really have anyone with a pedigree education either. 
 
-Shoaib is a good example. He started as a support agent, went on to head account opening, and eventually became our head of HR.
+[Shoaib](https://www.linkedin.com/in/mohammed-shoaib-2117b319/) is a good example. He started as a support agent, went on to head account opening, and eventually became our head of HR.
 
 Having leaders who come from within the organisation is valuable because they understand the culture instinctively. You don't have to put in effort to explain how we think, what we value, or how we make decisions.
 
