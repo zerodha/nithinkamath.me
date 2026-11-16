@@ -1,7 +1,7 @@
 ---
 
 date: '2026-11-16'
-title: Greenjoules: Turning agricultural waste into fuel
+title: Greenjoules - Turning agricultural waste into fuel
 tags: [climate,rainmatter]
 author: nithin
 link: https://x.com/Nithin0dha/status/2122297843297964080
