@@ -28,11 +28,11 @@
             {{ end }}
 					<div class="description">
 						{{ if isset .Params "description" }}
-							{{ .Description }}
+							{{ .Description | markdownify }}
 						{{ else if gt (len .RawContent) 120 }}
-							{{ slicestr .RawContent 0 120 }}...
+							{{ slicestr .RawContent 0 120 | markdownify }}...
 						{{ else }}
-							{{ .RawContent }}
+							{{ .RawContent | markdownify}}
 						{{ end }}
 					</div>
 				</div>
